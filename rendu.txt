@@ -1,0 +1,12 @@
+Rendu:
+
+    - Video ou repository github
+
+    - code commenté
+
+    - fichier soit directement dans la vidéo que vous me mettiez:
+        1) les difficultés que vous avez rencontré
+        2) Est-ce que vous avez trouvez l'algo difficile
+
+Date limite:
+    Jeudi 17 septembre 2020

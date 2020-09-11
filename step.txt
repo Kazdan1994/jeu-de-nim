@@ -1,3 +1,0 @@
-Step 1: Créer un fichier html
-Step 2: Créer un fichier js
-Step 3: Charger le js dans le fichier html
